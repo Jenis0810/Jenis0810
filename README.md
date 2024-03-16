@@ -1,9 +1,41 @@
-- 👋 Hi, I’m @Jenis0810
-- 👀 I’m interested in backend development
-- 🌱 I’m currently studying Electrical Engineering and Information Technology at Ravenburg Weingarten University, Germany.
-- 📫 How to reach me.. jenisgadhia234@gmail.com
+# 👋 Hi, I'm Jenis (@Jenis0810)
+
+Welcome to my GitHub profile! I'm a passionate backend developer with a keen interest in building scalable and efficient web applications. Currently, I'm pursuing my studies in Electrical Engineering and Information Technology at Ravensburg-Weingarten University, Germany, and diving deep into the world of coding and software development.
+
+## 🚀 Projects
+
+- **[GPS GSM Tracker](https://github.com/Jenis0810/GPS-GSM-tracker)**: A robust tracking system built with PHP, integrating GPS and GSM technologies to offer real-time location services. This project was my first foray into connecting hardware with web technologies, creating a seamless interface for location tracking.
+
+- **[Second Home: A Hostel Management System](https://github.com/Jenis0810/second-Home)**: Developed with PHP, Second Home is designed to simplify the complexities of managing hostel accommodations. It provides an intuitive platform for administrators and residents, streamlining processes like room allocation, fee management, and maintenance requests.
+
+## 💻 Skills and Technologies
+
+- **Languages**: Proficient in PHP and Python.
+- **Frameworks/Technologies**: Currently learning the MERN stack (MongoDB, Express.js, React.js, Node.js) to broaden my backend development skills.
+- **Tools**: Experienced in using version control (Git/GitHub) and familiar with software development methodologies.
+
+## 🎓 Academic Pursuits
+
+- **Thesis on Artificial Intelligence**: Venturing into the realm of AI, my current thesis work focuses on leveraging machine learning and artificial intelligence to solve real-world problems, demonstrating the potential of AI in enhancing technological solutions.
+
+## 🌱 I'm Currently Learning
+
+- **MERN Stack**: Actively learning and experimenting with MERN stack technologies to enhance my full-stack development capabilities and contribute more effectively to web-based projects.
+
+## 🎯 Professional Goals
+
+As a budding software developer, my goals are to:
+- Continuously improve my technical skills and understanding of backend technologies.
+- Engage in projects that push the boundaries of web and software development, especially those that integrate AI and machine learning.
+- Collaborate with like-minded individuals and contribute to open-source projects to give back to the community.
+- Explore career opportunities that allow me to apply my skills in backend development and AI to solve challenging problems.
+
+## 📫 How to Reach Me
+
+Feel free to reach out to me for collaborations, learning opportunities, or just to say hi:
+- 📧 Email: [jenisgadhia234@gmail.com](mailto:jenisgadhia234@gmail.com)
 
 <!---
-Jenis0810/Jenis0810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jenis0810/Jenis0810 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
