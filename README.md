@@ -4,9 +4,13 @@ Welcome to my GitHub profile! I'm a dedicated Software Developer currently worki
 
 ## 🚀 Projects
 
+- **[miniZeiterfassung](https://github.com/Jenis0810/miniZeiterfassung)**: A time tracking application built with C#, designed to efficiently manage and track work hours with a user-friendly interface.
+
 - **[GPS GSM Tracker](https://github.com/Jenis0810/GPS-GSM-tracker)**: A robust tracking system built with PHP, integrating GPS and GSM technologies to offer real-time location services. This project was my first foray into connecting hardware with web technologies, creating a seamless interface for location tracking.
 
 - **[Second Home: A Hostel Management System](https://github.com/Jenis0810/second-Home)**: Developed with PHP, Second Home is designed to simplify the complexities of managing hostel accommodations. It provides an intuitive platform for administrators and residents, streamlining processes like room allocation, fee management, and maintenance requests.
+
+- **[API](https://github.com/Jenis0810/API)**: A Python-based API project demonstrating RESTful service development and integration capabilities.
 
 ## 💻 Skills and Technologies
 
@@ -18,9 +22,10 @@ Welcome to my GitHub profile! I'm a dedicated Software Developer currently worki
 
 - **Thesis on Artificial Intelligence**: Venturing into the realm of AI, my current thesis work focuses on leveraging machine learning and artificial intelligence to solve real-world problems, demonstrating the potential of AI in enhancing technological solutions.
 
-## 🌱 I'm Currently Learning
+## 💼 I'm Currently Working On
 
-- **MERN Stack**: Actively learning and experimenting with MERN stack technologies to enhance my full-stack development capabilities and contribute more effectively to web-based projects.
+- **C# Development at digital Zeit**: Building enterprise-level software solutions using C# and .NET technologies, focusing on scalable architecture and best practices.
+- **MERN Stack Projects**: Actively experimenting with MERN stack technologies to enhance my full-stack development capabilities and contribute more effectively to web-based projects.
 
 ## 🎯 Professional Goals
 
